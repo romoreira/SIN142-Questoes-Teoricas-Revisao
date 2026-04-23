@@ -3,7 +3,7 @@
 ## SIN 142 - Sistemas Distribuídos
 
 **Professor:** Rodrigo Moreira  
-**Instituição:** UFV  
+**Instituição:** UFV - Campus Rio Paranaíba
 
 
 ---
